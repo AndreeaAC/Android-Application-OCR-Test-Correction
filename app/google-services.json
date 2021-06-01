@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712625426541",
+    "project_id": "corectaretestegrila",
+    "storage_bucket": "corectaretestegrila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712625426541:android:c1a84c58e09cba673b2f64",
+        "android_client_info": {
+          "package_name": "com.example.aplicatieocr_corectaretestegrila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712625426541-r9tj7k1a3tg504lko103n9laokrmu43l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAliSZ5qUnvkneS5zr09LBu49bISOZQao8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712625426541-r9tj7k1a3tg504lko103n9laokrmu43l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
